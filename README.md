@@ -8,8 +8,13 @@
 "pip install pydirectinput"
 "pip install pyautogui"
 
-2. Execute the script by typing "python protect.py" or "python protectlinux.py" and press enter
+3. In Garry's Mod, Open the console and type  bind - "say /protect" 
 
+4. Execute the script by typing "python protect.py" or "python protectlinux.py" and press enter
+
+How it works:
+
+Every 19 or so minutes the script presses the - key and activates protection.
 
 
 **YOU MUST BE TABBED INTO GMOD FOR THE PROTECTION TO WORK AND PRESS THE KEYBIND**
