@@ -15,4 +15,5 @@
 
 
 Photo of the script in action, It's best to use it in conjuction in windowed mode to keep an eye on the timer.
+
 ![alt text](https://i.imgur.com/LF63hnT.png)
