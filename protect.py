@@ -1,8 +1,6 @@
 import time
 import pydirectinput
-import winsound
 
-  
 while True:
         print("Auto Protecting soon....")
         time.sleep(20)
