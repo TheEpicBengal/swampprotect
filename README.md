@@ -10,7 +10,7 @@
 
 3. In Garry's Mod, Open the console and type  bind - "say /protect" 
 
-4. Execute the script by typing "python protect.py" or "python protectlinux.py" and press enter
+4. Execute the script by typing "python protect.py" for Windows or "python protectlinux.py" for Linux and press enter
 
 How it works:
 
