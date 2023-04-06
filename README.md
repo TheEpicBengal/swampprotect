@@ -1,4 +1,5 @@
 ![alt text](https://i.imgur.com/OTmOc4x.png)
+![alt text](https://i.imgur.com/W83EFMR.png)
 
 
 1. First make sure python is installed on your computer. You can either go to the microsoft link or search for it on Microsoft store app. https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=en-us&gl=US
