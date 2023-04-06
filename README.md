@@ -12,8 +12,9 @@
 
 
 
+**YOU MUST BE TABBED INTO GMOD FOR THE PROTECTION TO WORK AND PRESS THE KEYBIND**
 
 
-Photo of the script in action, It's best to use it in conjuction in windowed mode to keep an eye on the timer.
+Photo of the script in action, It's best to use it in conjuction in windowed mode to keep an eye on the timer. Best used when watching long videos, leaving your computer AFK overnight and you want to hog a theater, or you just want to watch a long movie in peace.
 
 ![alt text](https://i.imgur.com/LF63hnT.png)
