@@ -14,7 +14,7 @@
 
 How it works:
 
-Every 19 the script presses the - key and activates protection. When the autoprotection sequence countdown starts, you will have 20 seconds to tab into the game for the first time. Since the script does not end exactly at 20 minutes, there will be overlap meaning you will be always protected with a buffer of about 40 seconds.
+Every 19 minutes the script presses the - key and activates protection. When the autoprotection sequence countdown starts, you will have 20 seconds to tab into the game for the first time. Since the script does not end exactly at 20 minutes, there will be overlap meaning you will be always protected with a buffer of about 40 seconds.
 
 
 **YOU MUST BE TABBED INTO GMOD FOR THE PROTECTION TO WORK AND PRESS THE KEYBIND**
